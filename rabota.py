@@ -3,4 +3,4 @@ b=int(input())
 
 c = a + b
 
-print(c)
+print(c)  # Выводит сумму a и b
