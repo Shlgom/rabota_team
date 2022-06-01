@@ -4,3 +4,7 @@ b=int(input())
 c = a + b
 
 print(c)  # Выводит сумму a и b
+
+d = a * b
+
+print(d)  # Выводит произведение a и b
